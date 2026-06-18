@@ -11,7 +11,7 @@ app.use(express.json()); // Parse JSON bodies
 app.use(express.urlencoded({ extended: true }));
 
 // Connect to MongoDB
-const mongoURI = process.env.MONGO_URI || "mongodb+srv://ikoshdev_db_user:Islomov121@cluster0.i6iksbe.mongodb.net/?appName=Cluster0";
+const mongoURI = process.env.MONGO_URI || "mongodb+srv://ikoshdev_db_user:AsoschiIkrom2026@cluster0.i6iksbe.mongodb.net/?appName=Cluster0";
 
 mongoose.connect(mongoURI)
 .then(() => console.log('✅ Connected to MongoDB successfully!'))
