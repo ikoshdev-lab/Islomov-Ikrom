@@ -1,0 +1,77 @@
+============================================================
+IKROM ISLOMOV | FRONT-END DEVELOPER & CYBERSECURITY SPECIALIST
+============================================================
+
+CONTACT DETAILS
+------------------------------------------------------------
+Name: Islomov Ikrom Burxon o‘g‘li
+Tug‘ilgan sana: June 28, 2006 (Age: 20)
+Location: Jizzakh, Uzbekistan
+Phone: +998 91 590 39 49
+Email: ikoshdev@gmail.com
+GitHub: https://github.com/ikoshdev-lab
+Telegram: https://t.me/ikosh_dev
+Instagram: https://instagram.com/ikosh.dev
+Facebook: https://facebook.com/Ikromislomov771
+
+
+PROFESSIONAL SUMMARY
+------------------------------------------------------------
+Front-End Developer and Cybersecurity Specialist from Uzbekistan.
+Second-year student at ITPU University (IT Park University).
+Specializing in building modern, responsive, and secure web applications.
+Passionate about creating user-friendly UI/UX systems and implementing 
+robust security standards to protect digital assets.
+
+
+EDUCATION
+------------------------------------------------------------
+ITPU University (IT Park University)
+Bachelor of Computer Science & Software Engineering
+2nd-Year Student (2024 - Present)
+Key topics: Web programming, Information Security, OOP, Databases.
+
+
+TECHNICAL SKILLS
+------------------------------------------------------------
+- Front-End Development: HTML5, CSS3, JavaScript (ES6+), Bootstrap
+- Programming Languages: Python, JavaScript
+- Cybersecurity: OWASP Top 10 mitigation, Web Penetration Testing, 
+                 Secure Authentication, Network Auditing
+- Version Control & Workflows: Git, GitHub
+
+
+CERTIFICATES
+------------------------------------------------------------
+- Front-End Development Professional Certificate (Issued 2024)
+- Python Programming Professional Certificate (Issued 2024)
+
+
+PROJECTS
+------------------------------------------------------------
+1. ASR Plaza Hotel Website
+   - Interactive booking and room listing web interface.
+   
+2. Electronica Electronics Store
+   - Modern e-commerce web platform with responsive layouts.
+   
+3. Online Taxi Platform
+   - Booking simulation with distance pricing calculations.
+   
+4. Car Marketplace Website
+   - Vehicle directory with search and compare functionalities.
+   
+5. Restaurant Ordering System
+   - Table reservation and customized order cart persistence.
+   
+6. Freelance Service Platform
+   - Freelancer profile showcase and client offer templates.
+   
+7. Uzum Market Style Store
+   - Complex e-commerce mockup with product categories and reviews.
+   
+8. AI Security integrations
+   - Python scripting analyzing network logs and parsing configurations.
+
+============================================================
+Generated at ikosh.dev Portfolio
